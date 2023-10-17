@@ -1,0 +1,14 @@
+C:\Users\Animal V2 Mobile\source\repos\Week9\Week9\bin\Debug\net6.0\Week9.exe
+C:\Users\Animal V2 Mobile\source\repos\Week9\Week9\bin\Debug\net6.0\Week9.deps.json
+C:\Users\Animal V2 Mobile\source\repos\Week9\Week9\bin\Debug\net6.0\Week9.runtimeconfig.json
+C:\Users\Animal V2 Mobile\source\repos\Week9\Week9\bin\Debug\net6.0\Week9.dll
+C:\Users\Animal V2 Mobile\source\repos\Week9\Week9\bin\Debug\net6.0\Week9.pdb
+C:\Users\Animal V2 Mobile\source\repos\Week9\Week9\obj\Debug\net6.0\Week9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Animal V2 Mobile\source\repos\Week9\Week9\obj\Debug\net6.0\Week9.AssemblyInfoInputs.cache
+C:\Users\Animal V2 Mobile\source\repos\Week9\Week9\obj\Debug\net6.0\Week9.AssemblyInfo.cs
+C:\Users\Animal V2 Mobile\source\repos\Week9\Week9\obj\Debug\net6.0\Week9.csproj.CoreCompileInputs.cache
+C:\Users\Animal V2 Mobile\source\repos\Week9\Week9\obj\Debug\net6.0\Week9.dll
+C:\Users\Animal V2 Mobile\source\repos\Week9\Week9\obj\Debug\net6.0\refint\Week9.dll
+C:\Users\Animal V2 Mobile\source\repos\Week9\Week9\obj\Debug\net6.0\Week9.pdb
+C:\Users\Animal V2 Mobile\source\repos\Week9\Week9\obj\Debug\net6.0\Week9.genruntimeconfig.cache
+C:\Users\Animal V2 Mobile\source\repos\Week9\Week9\obj\Debug\net6.0\ref\Week9.dll
